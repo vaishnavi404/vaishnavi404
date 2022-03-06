@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ...IT companies
-- 📫 How to reach me ...by my mail id vaishnavib1732gmail.com
+- 📫 How to reach me ...by my mail id vaishnavib173@gmail.com
 
 <!---
 vaishnavi404/vaishnavi404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
