@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaishnavi404
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...machine learning, react js, vanilla javascript, django.
-- 💞️ I’m looking for opprotunity to work in  ...IT companies
+- 🌱 I’m currently learning ...data structures, react js, vanilla javascript.
+- 💞️ I’m looking for opportunity to work in  ...IT companies
 - 📫 How to reach me ...by my mail id vaishnavib173@gmail.com
 
 <!---
