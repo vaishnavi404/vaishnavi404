@@ -1,4 +1,4 @@
-👋 Hello, I'm Vaishnavi (@vaishnavi404)!
+👋 Hello, I'm Vaishnavi !
 
 👀 Passionate about software development, I'm constantly exploring new horizons in technology.
 
