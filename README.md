@@ -2,7 +2,7 @@
 
 👀 Passionate about software development, I'm constantly exploring new horizons in technology.
 
-🌱 Currently, I'm immersing myself in learning data structures, React.js, Vanilla JavaScript, Node.js, and Express.js.
+🌱 Currently, I'm immersing myself in learning Spring, SpringBoot, hibernate, spring data Jpa, Core Java, Spring MVC, Spring Security  
 
 💼 I'm eagerly seeking opportunities to contribute my skills and enthusiasm to IT companies.
 
